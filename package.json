@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^4.0.2"
+  }
+}
